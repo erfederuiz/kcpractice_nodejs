@@ -26,19 +26,19 @@
             "register": {
                 "errorType": {
                     "badRequest": "La consulta de registro debe tener las claves: 'name', 'email', 'passwd', 'lang'.",
-                    "forbidden": "Usuario con correo electrónico: '${email}' existe, elija otro para registrarse."
+                    "forbidden": "Usuario con correo electrónico: '${email}' existente, elija otro para registrarse."
                 }
             },
             "auth": {
                 "errorType": {
                     "badRequest": "La consulta auth debe tener claves: 'email', 'passwd'.",
-                    "forbidden": "El correo electrónico (${email}) o la contraseña (${passwd}) están incorrectos."
+                    "forbidden": "El correo electrónico (${email}) o la contraseña (${passwd}) son incorrectos."
                 }
             },
             "adverts": {
                 "errorType": {
                     "badRequest": "La consulta debe tener propiedad 'token'.",
-                    "forbidden": "No válido AUTH_TOKEN:\n${token}"
+                    "forbidden": "Información AUTH_TOKEN no válida:\n${token}"
                 }
             }
         }
