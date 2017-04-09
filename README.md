@@ -12,7 +12,7 @@ Endpoints de la API :
 Para iniciar el servidor, ejecutar:
 `npm start`.
 
-##Ejecución usando cluster
+## Ejecución usando cluster
 Nota: No usa cluster si la variable ${NODE_ENV} es distinta de 'production'
 
 Con el entorno en modo **production**, usar el paquete compilado (Generado en ./dist). 
