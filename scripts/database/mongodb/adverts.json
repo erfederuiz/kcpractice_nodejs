@@ -1,0 +1,1689 @@
+{"adverts": [
+ {
+   "artName": "eyes_1",
+   "toSell": false,
+   "price": 72.41,
+   "photo": "1.jpg",
+   "tags": ["tag_e","tag_s","tag_y"]
+ },
+ {
+   "artName": "sofa_2",
+   "toSell": true,
+   "price": 57.59,
+   "photo": "2.jpg",
+   "tags": ["tag_s","tag_a","tag_o"]
+ },
+ {
+   "artName": "twist_3",
+   "toSell": false,
+   "price": 52.97,
+   "photo": "3.jpg",
+   "tags": ["tag_t","tag_t","tag_w"]
+ },
+ {
+   "artName": "liquid_4",
+   "toSell": true,
+   "price": 86.56,
+   "photo": "4.jpg",
+   "tags": ["tag_l","tag_d","tag_q"]
+ },
+ {
+   "artName": "vacation_5",
+   "toSell": false,
+   "price": 90.05,
+   "photo": "5.jpg",
+   "tags": ["tag_v","tag_n","tag_a"]
+ },
+ {
+   "artName": "plant_6",
+   "toSell": true,
+   "price": 38.85,
+   "photo": "6.jpg",
+   "tags": ["tag_p","tag_t","tag_l"]
+ },
+ {
+   "artName": "neck_7",
+   "toSell": false,
+   "price": 41.35,
+   "photo": "7.jpg",
+   "tags": ["tag_n","tag_k","tag_e"]
+ },
+ {
+   "artName": "cap_8",
+   "toSell": true,
+   "price": 34.17,
+   "photo": "8.jpg",
+   "tags": ["tag_c","tag_p","tag_c"]
+ },
+ {
+   "artName": "destruction_9",
+   "toSell": false,
+   "price": 86.34,
+   "photo": "9.jpg",
+   "tags": ["tag_d","tag_n","tag_r"]
+ },
+ {
+   "artName": "men_10",
+   "toSell": true,
+   "price": 91.76,
+   "photo": "10.jpg",
+   "tags": ["tag_m","tag_n","tag_m"]
+ },
+ {
+   "artName": "wound_11",
+   "toSell": false,
+   "price": 39.51,
+   "photo": "11.jpg",
+   "tags": ["tag_w","tag_d","tag_o"]
+ },
+ {
+   "artName": "icicle_12",
+   "toSell": true,
+   "price": 65.69,
+   "photo": "12.jpg",
+   "tags": ["tag_i","tag_e","tag_i"]
+ },
+ {
+   "artName": "leather_13",
+   "toSell": false,
+   "price": 91.09,
+   "photo": "13.jpg",
+   "tags": ["tag_l","tag_r","tag_a"]
+ },
+ {
+   "artName": "distance_14",
+   "toSell": true,
+   "price": 41.15,
+   "photo": "14.jpg",
+   "tags": ["tag_d","tag_e","tag_t"]
+ },
+ {
+   "artName": "cable_15",
+   "toSell": false,
+   "price": 11.72,
+   "photo": "15.jpg",
+   "tags": ["tag_c","tag_e","tag_a"]
+ },
+ {
+   "artName": "dinosaurs_16",
+   "toSell": true,
+   "price": 66.77,
+   "photo": "16.jpg",
+   "tags": ["tag_d","tag_s","tag_o"]
+ },
+ {
+   "artName": "coal_17",
+   "toSell": false,
+   "price": 58.2,
+   "photo": "17.jpg",
+   "tags": ["tag_c","tag_l","tag_o"]
+ },
+ {
+   "artName": "flowers_18",
+   "toSell": true,
+   "price": 75.24,
+   "photo": "18.jpg",
+   "tags": ["tag_f","tag_s","tag_o"]
+ },
+ {
+   "artName": "expert_19",
+   "toSell": false,
+   "price": 12.52,
+   "photo": "19.jpg",
+   "tags": ["tag_e","tag_t","tag_p"]
+ },
+ {
+   "artName": "end_20",
+   "toSell": true,
+   "price": 82.59,
+   "photo": "20.jpg",
+   "tags": ["tag_e","tag_d","tag_e"]
+ },
+ {
+   "artName": "milk_21",
+   "toSell": false,
+   "price": 19.16,
+   "photo": "21.jpg",
+   "tags": ["tag_m","tag_k","tag_i"]
+ },
+ {
+   "artName": "history_22",
+   "toSell": true,
+   "price": 59.48,
+   "photo": "22.jpg",
+   "tags": ["tag_h","tag_y","tag_s"]
+ },
+ {
+   "artName": "elbow_23",
+   "toSell": false,
+   "price": 17.03,
+   "photo": "23.jpg",
+   "tags": ["tag_e","tag_w","tag_l"]
+ },
+ {
+   "artName": "doctor_24",
+   "toSell": true,
+   "price": 99.32,
+   "photo": "24.jpg",
+   "tags": ["tag_d","tag_r","tag_c"]
+ },
+ {
+   "artName": "passenger_25",
+   "toSell": false,
+   "price": 79.47,
+   "photo": "25.jpg",
+   "tags": ["tag_p","tag_r","tag_s"]
+ },
+ {
+   "artName": "thought_26",
+   "toSell": true,
+   "price": 43.2,
+   "photo": "26.jpg",
+   "tags": ["tag_t","tag_t","tag_o"]
+ },
+ {
+   "artName": "bike_27",
+   "toSell": false,
+   "price": 42.5,
+   "photo": "27.jpg",
+   "tags": ["tag_b","tag_e","tag_i"]
+ },
+ {
+   "artName": "head_28",
+   "toSell": true,
+   "price": 36.07,
+   "photo": "28.jpg",
+   "tags": ["tag_h","tag_d","tag_e"]
+ },
+ {
+   "artName": "feeling_29",
+   "toSell": false,
+   "price": 56.98,
+   "photo": "29.jpg",
+   "tags": ["tag_f","tag_g","tag_e"]
+ },
+ {
+   "artName": "finger_30",
+   "toSell": true,
+   "price": 34.48,
+   "photo": "30.jpg",
+   "tags": ["tag_f","tag_r","tag_n"]
+ },
+ {
+   "artName": "cactus_31",
+   "toSell": false,
+   "price": 33.01,
+   "photo": "31.jpg",
+   "tags": ["tag_c","tag_s","tag_c"]
+ },
+ {
+   "artName": "toad_32",
+   "toSell": true,
+   "price": 38.43,
+   "photo": "32.jpg",
+   "tags": ["tag_t","tag_d","tag_o"]
+ },
+ {
+   "artName": "tongue_33",
+   "toSell": false,
+   "price": 3.24,
+   "photo": "33.jpg",
+   "tags": ["tag_t","tag_e","tag_n"]
+ },
+ {
+   "artName": "potato_34",
+   "toSell": true,
+   "price": 77.66,
+   "photo": "34.jpg",
+   "tags": ["tag_p","tag_o","tag_t"]
+ },
+ {
+   "artName": "account_35",
+   "toSell": false,
+   "price": 80.75,
+   "photo": "35.jpg",
+   "tags": ["tag_a","tag_t","tag_c"]
+ },
+ {
+   "artName": "trip_36",
+   "toSell": true,
+   "price": 60.58,
+   "photo": "36.jpg",
+   "tags": ["tag_t","tag_p","tag_r"]
+ },
+ {
+   "artName": "branch_37",
+   "toSell": false,
+   "price": 71.82,
+   "photo": "37.jpg",
+   "tags": ["tag_b","tag_h","tag_a"]
+ },
+ {
+   "artName": "start_38",
+   "toSell": true,
+   "price": 10.57,
+   "photo": "38.jpg",
+   "tags": ["tag_s","tag_t","tag_t"]
+ },
+ {
+   "artName": "nut_39",
+   "toSell": false,
+   "price": 27.02,
+   "photo": "39.jpg",
+   "tags": ["tag_n","tag_t","tag_n"]
+ },
+ {
+   "artName": "bait_40",
+   "toSell": true,
+   "price": 14,
+   "photo": "40.jpg",
+   "tags": ["tag_b","tag_t","tag_a"]
+ },
+ {
+   "artName": "furniture_41",
+   "toSell": false,
+   "price": 31.31,
+   "photo": "41.jpg",
+   "tags": ["tag_f","tag_e","tag_n"]
+ },
+ {
+   "artName": "cart_42",
+   "toSell": true,
+   "price": 19.81,
+   "photo": "42.jpg",
+   "tags": ["tag_c","tag_t","tag_a"]
+ },
+ {
+   "artName": "arch_43",
+   "toSell": false,
+   "price": 85.52,
+   "photo": "43.jpg",
+   "tags": ["tag_a","tag_h","tag_r"]
+ },
+ {
+   "artName": "collar_44",
+   "toSell": true,
+   "price": 88.83,
+   "photo": "44.jpg",
+   "tags": ["tag_c","tag_r","tag_l"]
+ },
+ {
+   "artName": "cherries_45",
+   "toSell": false,
+   "price": 76.87,
+   "photo": "45.jpg",
+   "tags": ["tag_c","tag_s","tag_r"]
+ },
+ {
+   "artName": "bell_46",
+   "toSell": true,
+   "price": 56.37,
+   "photo": "46.jpg",
+   "tags": ["tag_b","tag_l","tag_e"]
+ },
+ {
+   "artName": "egg_47",
+   "toSell": false,
+   "price": 2.37,
+   "photo": "47.jpg",
+   "tags": ["tag_e","tag_g","tag_e"]
+ },
+ {
+   "artName": "house_48",
+   "toSell": true,
+   "price": 36.9,
+   "photo": "48.jpg",
+   "tags": ["tag_h","tag_e","tag_o"]
+ },
+ {
+   "artName": "note_49",
+   "toSell": false,
+   "price": 11.05,
+   "photo": "49.jpg",
+   "tags": ["tag_n","tag_e","tag_o"]
+ },
+ {
+   "artName": "legs_50",
+   "toSell": true,
+   "price": 98.64,
+   "photo": "50.jpg",
+   "tags": ["tag_l","tag_s","tag_e"]
+ },
+ {
+   "artName": "wing_51",
+   "toSell": false,
+   "price": 77.78,
+   "photo": "51.jpg",
+   "tags": ["tag_w","tag_g","tag_i"]
+ },
+ {
+   "artName": "snail_52",
+   "toSell": true,
+   "price": 29.68,
+   "photo": "52.jpg",
+   "tags": ["tag_s","tag_l","tag_n"]
+ },
+ {
+   "artName": "creator_53",
+   "toSell": false,
+   "price": 38.9,
+   "photo": "53.jpg",
+   "tags": ["tag_c","tag_r","tag_e"]
+ },
+ {
+   "artName": "wood_54",
+   "toSell": true,
+   "price": 56.03,
+   "photo": "54.jpg",
+   "tags": ["tag_w","tag_d","tag_o"]
+ },
+ {
+   "artName": "wish_55",
+   "toSell": false,
+   "price": 18.41,
+   "photo": "55.jpg",
+   "tags": ["tag_w","tag_h","tag_i"]
+ },
+ {
+   "artName": "powder_56",
+   "toSell": true,
+   "price": 32.34,
+   "photo": "56.jpg",
+   "tags": ["tag_p","tag_r","tag_w"]
+ },
+ {
+   "artName": "mask_57",
+   "toSell": false,
+   "price": 99.19,
+   "photo": "57.jpg",
+   "tags": ["tag_m","tag_k","tag_a"]
+ },
+ {
+   "artName": "beef_58",
+   "toSell": true,
+   "price": 84.56,
+   "photo": "58.jpg",
+   "tags": ["tag_b","tag_f","tag_e"]
+ },
+ {
+   "artName": "rabbit_59",
+   "toSell": false,
+   "price": 39.72,
+   "photo": "59.jpg",
+   "tags": ["tag_r","tag_t","tag_b"]
+ },
+ {
+   "artName": "wealth_60",
+   "toSell": true,
+   "price": 75.06,
+   "photo": "60.jpg",
+   "tags": ["tag_w","tag_h","tag_a"]
+ },
+ {
+   "artName": "hose_61",
+   "toSell": false,
+   "price": 67.92,
+   "photo": "61.jpg",
+   "tags": ["tag_h","tag_e","tag_o"]
+ },
+ {
+   "artName": "chess_62",
+   "toSell": true,
+   "price": 70.11,
+   "photo": "62.jpg",
+   "tags": ["tag_c","tag_s","tag_h"]
+ },
+ {
+   "artName": "island_63",
+   "toSell": false,
+   "price": 34.01,
+   "photo": "63.jpg",
+   "tags": ["tag_i","tag_d","tag_l"]
+ },
+ {
+   "artName": "event_64",
+   "toSell": true,
+   "price": 97.44,
+   "photo": "64.jpg",
+   "tags": ["tag_e","tag_t","tag_v"]
+ },
+ {
+   "artName": "value_65",
+   "toSell": false,
+   "price": 42.15,
+   "photo": "65.jpg",
+   "tags": ["tag_v","tag_e","tag_a"]
+ },
+ {
+   "artName": "coat_66",
+   "toSell": true,
+   "price": 5.96,
+   "photo": "66.jpg",
+   "tags": ["tag_c","tag_t","tag_o"]
+ },
+ {
+   "artName": "cause_67",
+   "toSell": false,
+   "price": 55.54,
+   "photo": "67.jpg",
+   "tags": ["tag_c","tag_e","tag_a"]
+ },
+ {
+   "artName": "bells_68",
+   "toSell": true,
+   "price": 62.83,
+   "photo": "68.jpg",
+   "tags": ["tag_b","tag_s","tag_e"]
+ },
+ {
+   "artName": "wilderness_69",
+   "toSell": false,
+   "price": 66.74,
+   "photo": "69.jpg",
+   "tags": ["tag_w","tag_s","tag_e"]
+ },
+ {
+   "artName": "fog_70",
+   "toSell": true,
+   "price": 95.87,
+   "photo": "70.jpg",
+   "tags": ["tag_f","tag_g","tag_f"]
+ },
+ {
+   "artName": "shock_71",
+   "toSell": false,
+   "price": 2.16,
+   "photo": "71.jpg",
+   "tags": ["tag_s","tag_k","tag_h"]
+ },
+ {
+   "artName": "regret_72",
+   "toSell": true,
+   "price": 37.76,
+   "photo": "72.jpg",
+   "tags": ["tag_r","tag_t","tag_g"]
+ },
+ {
+   "artName": "horse_73",
+   "toSell": false,
+   "price": 61.68,
+   "photo": "73.jpg",
+   "tags": ["tag_h","tag_e","tag_o"]
+ },
+ {
+   "artName": "mint_74",
+   "toSell": true,
+   "price": 66.5,
+   "photo": "74.jpg",
+   "tags": ["tag_m","tag_t","tag_i"]
+ },
+ {
+   "artName": "wave_75",
+   "toSell": false,
+   "price": 78.87,
+   "photo": "75.jpg",
+   "tags": ["tag_w","tag_e","tag_a"]
+ },
+ {
+   "artName": "bath_76",
+   "toSell": true,
+   "price": 40.9,
+   "photo": "76.jpg",
+   "tags": ["tag_b","tag_h","tag_a"]
+ },
+ {
+   "artName": "circle_77",
+   "toSell": false,
+   "price": 79.47,
+   "photo": "77.jpg",
+   "tags": ["tag_c","tag_e","tag_r"]
+ },
+ {
+   "artName": "side_78",
+   "toSell": true,
+   "price": 68.65,
+   "photo": "78.jpg",
+   "tags": ["tag_s","tag_e","tag_i"]
+ },
+ {
+   "artName": "mouth_79",
+   "toSell": false,
+   "price": 66.11,
+   "photo": "79.jpg",
+   "tags": ["tag_m","tag_h","tag_o"]
+ },
+ {
+   "artName": "protest_80",
+   "toSell": true,
+   "price": 10.82,
+   "photo": "80.jpg",
+   "tags": ["tag_p","tag_t","tag_o"]
+ },
+ {
+   "artName": "crack_81",
+   "toSell": false,
+   "price": 66.11,
+   "photo": "81.jpg",
+   "tags": ["tag_c","tag_k","tag_r"]
+ },
+ {
+   "artName": "coast_82",
+   "toSell": true,
+   "price": 3.39,
+   "photo": "82.jpg",
+   "tags": ["tag_c","tag_t","tag_o"]
+ },
+ {
+   "artName": "turkey_83",
+   "toSell": false,
+   "price": 56.98,
+   "photo": "83.jpg",
+   "tags": ["tag_t","tag_y","tag_r"]
+ },
+ {
+   "artName": "bridge_84",
+   "toSell": true,
+   "price": 89.82,
+   "photo": "84.jpg",
+   "tags": ["tag_b","tag_e","tag_i"]
+ },
+ {
+   "artName": "thread_85",
+   "toSell": false,
+   "price": 82.78,
+   "photo": "85.jpg",
+   "tags": ["tag_t","tag_d","tag_r"]
+ },
+ {
+   "artName": "representative_86",
+   "toSell": true,
+   "price": 97.63,
+   "photo": "86.jpg",
+   "tags": ["tag_r","tag_e","tag_e"]
+ },
+ {
+   "artName": "ice_87",
+   "toSell": false,
+   "price": 33.96,
+   "photo": "87.jpg",
+   "tags": ["tag_i","tag_e","tag_i"]
+ },
+ {
+   "artName": "toothpaste_88",
+   "toSell": true,
+   "price": 25.17,
+   "photo": "88.jpg",
+   "tags": ["tag_t","tag_e","tag_h"]
+ },
+ {
+   "artName": "jail_89",
+   "toSell": false,
+   "price": 82.56,
+   "photo": "89.jpg",
+   "tags": ["tag_j","tag_l","tag_a"]
+ },
+ {
+   "artName": "dogs_90",
+   "toSell": true,
+   "price": 95.72,
+   "photo": "90.jpg",
+   "tags": ["tag_d","tag_s","tag_o"]
+ },
+ {
+   "artName": "edge_91",
+   "toSell": false,
+   "price": 10.18,
+   "photo": "91.jpg",
+   "tags": ["tag_e","tag_e","tag_d"]
+ },
+ {
+   "artName": "price_92",
+   "toSell": true,
+   "price": 49.51,
+   "photo": "92.jpg",
+   "tags": ["tag_p","tag_e","tag_r"]
+ },
+ {
+   "artName": "brother_93",
+   "toSell": false,
+   "price": 5.2,
+   "photo": "93.jpg",
+   "tags": ["tag_b","tag_r","tag_o"]
+ },
+ {
+   "artName": "form_94",
+   "toSell": true,
+   "price": 32.24,
+   "photo": "94.jpg",
+   "tags": ["tag_f","tag_m","tag_o"]
+ },
+ {
+   "artName": "suggestion_95",
+   "toSell": false,
+   "price": 10.49,
+   "photo": "95.jpg",
+   "tags": ["tag_s","tag_n","tag_e"]
+ },
+ {
+   "artName": "education_96",
+   "toSell": true,
+   "price": 73.03,
+   "photo": "96.jpg",
+   "tags": ["tag_e","tag_n","tag_c"]
+ },
+ {
+   "artName": "writing_97",
+   "toSell": false,
+   "price": 98.09,
+   "photo": "97.jpg",
+   "tags": ["tag_w","tag_g","tag_i"]
+ },
+ {
+   "artName": "sign_98",
+   "toSell": true,
+   "price": 45.71,
+   "photo": "98.jpg",
+   "tags": ["tag_s","tag_n","tag_i"]
+ },
+ {
+   "artName": "snake_99",
+   "toSell": false,
+   "price": 43.81,
+   "photo": "99.jpg",
+   "tags": ["tag_s","tag_e","tag_n"]
+ },
+ {
+   "artName": "blood_100",
+   "toSell": true,
+   "price": 36.58,
+   "photo": "100.jpg",
+   "tags": ["tag_b","tag_d","tag_l"]
+ },
+ {
+   "artName": "week_101",
+   "toSell": false,
+   "price": 53.41,
+   "photo": "101.jpg",
+   "tags": ["tag_w","tag_k","tag_e"]
+ },
+ {
+   "artName": "grain_102",
+   "toSell": true,
+   "price": 33.6,
+   "photo": "102.jpg",
+   "tags": ["tag_g","tag_n","tag_r"]
+ },
+ {
+   "artName": "car_103",
+   "toSell": false,
+   "price": 97.02,
+   "photo": "103.jpg",
+   "tags": ["tag_c","tag_r","tag_c"]
+ },
+ {
+   "artName": "yam_104",
+   "toSell": true,
+   "price": 13.01,
+   "photo": "104.jpg",
+   "tags": ["tag_y","tag_m","tag_y"]
+ },
+ {
+   "artName": "hate_105",
+   "toSell": false,
+   "price": 78.77,
+   "photo": "105.jpg",
+   "tags": ["tag_h","tag_e","tag_a"]
+ },
+ {
+   "artName": "robin_106",
+   "toSell": true,
+   "price": 24.95,
+   "photo": "106.jpg",
+   "tags": ["tag_r","tag_n","tag_o"]
+ },
+ {
+   "artName": "burst_107",
+   "toSell": false,
+   "price": 13.02,
+   "photo": "107.jpg",
+   "tags": ["tag_b","tag_t","tag_u"]
+ },
+ {
+   "artName": "thing_108",
+   "toSell": true,
+   "price": 62.42,
+   "photo": "108.jpg",
+   "tags": ["tag_t","tag_g","tag_h"]
+ },
+ {
+   "artName": "needle_109",
+   "toSell": false,
+   "price": 92.08,
+   "photo": "109.jpg",
+   "tags": ["tag_n","tag_e","tag_e"]
+ },
+ {
+   "artName": "pickle_110",
+   "toSell": true,
+   "price": 64.13,
+   "photo": "110.jpg",
+   "tags": ["tag_p","tag_e","tag_c"]
+ },
+ {
+   "artName": "selection_111",
+   "toSell": false,
+   "price": 93.65,
+   "photo": "111.jpg",
+   "tags": ["tag_s","tag_n","tag_e"]
+ },
+ {
+   "artName": "minister_112",
+   "toSell": true,
+   "price": 81.91,
+   "photo": "112.jpg",
+   "tags": ["tag_m","tag_r","tag_i"]
+ },
+ {
+   "artName": "machine_113",
+   "toSell": false,
+   "price": 44,
+   "photo": "113.jpg",
+   "tags": ["tag_m","tag_e","tag_c"]
+ },
+ {
+   "artName": "thunder_114",
+   "toSell": true,
+   "price": 35.94,
+   "photo": "114.jpg",
+   "tags": ["tag_t","tag_r","tag_u"]
+ },
+ {
+   "artName": "cellar_115",
+   "toSell": false,
+   "price": 94.56,
+   "photo": "115.jpg",
+   "tags": ["tag_c","tag_r","tag_l"]
+ },
+ {
+   "artName": "friction_116",
+   "toSell": true,
+   "price": 36.2,
+   "photo": "116.jpg",
+   "tags": ["tag_f","tag_n","tag_c"]
+ },
+ {
+   "artName": "mountain_117",
+   "toSell": false,
+   "price": 31.63,
+   "photo": "117.jpg",
+   "tags": ["tag_m","tag_n","tag_n"]
+ },
+ {
+   "artName": "pail_118",
+   "toSell": true,
+   "price": 35.22,
+   "photo": "118.jpg",
+   "tags": ["tag_p","tag_l","tag_a"]
+ },
+ {
+   "artName": "room_119",
+   "toSell": false,
+   "price": 95.63,
+   "photo": "119.jpg",
+   "tags": ["tag_r","tag_m","tag_o"]
+ },
+ {
+   "artName": "wheel_120",
+   "toSell": true,
+   "price": 61.31,
+   "photo": "120.jpg",
+   "tags": ["tag_w","tag_l","tag_h"]
+ },
+ {
+   "artName": "mother_121",
+   "toSell": false,
+   "price": 27.17,
+   "photo": "121.jpg",
+   "tags": ["tag_m","tag_r","tag_t"]
+ },
+ {
+   "artName": "connection_122",
+   "toSell": true,
+   "price": 51.4,
+   "photo": "122.jpg",
+   "tags": ["tag_c","tag_n","tag_e"]
+ },
+ {
+   "artName": "birthday_123",
+   "toSell": false,
+   "price": 18.68,
+   "photo": "123.jpg",
+   "tags": ["tag_b","tag_y","tag_t"]
+ },
+ {
+   "artName": "oranges_124",
+   "toSell": true,
+   "price": 82.67,
+   "photo": "124.jpg",
+   "tags": ["tag_o","tag_s","tag_a"]
+ },
+ {
+   "artName": "tree_125",
+   "toSell": false,
+   "price": 59.73,
+   "photo": "125.jpg",
+   "tags": ["tag_t","tag_e","tag_r"]
+ },
+ {
+   "artName": "turn_126",
+   "toSell": true,
+   "price": 68.79,
+   "photo": "126.jpg",
+   "tags": ["tag_t","tag_n","tag_u"]
+ },
+ {
+   "artName": "dolls_127",
+   "toSell": false,
+   "price": 37.52,
+   "photo": "127.jpg",
+   "tags": ["tag_d","tag_s","tag_o"]
+ },
+ {
+   "artName": "join_128",
+   "toSell": true,
+   "price": 28.47,
+   "photo": "128.jpg",
+   "tags": ["tag_j","tag_n","tag_o"]
+ },
+ {
+   "artName": "knot_129",
+   "toSell": false,
+   "price": 83.93,
+   "photo": "129.jpg",
+   "tags": ["tag_k","tag_t","tag_n"]
+ },
+ {
+   "artName": "unit_130",
+   "toSell": true,
+   "price": 41.06,
+   "photo": "130.jpg",
+   "tags": ["tag_u","tag_t","tag_n"]
+ },
+ {
+   "artName": "army_131",
+   "toSell": false,
+   "price": 92.88,
+   "photo": "131.jpg",
+   "tags": ["tag_a","tag_y","tag_r"]
+ },
+ {
+   "artName": "hat_132",
+   "toSell": true,
+   "price": 81.46,
+   "photo": "132.jpg",
+   "tags": ["tag_h","tag_t","tag_h"]
+ },
+ {
+   "artName": "care_133",
+   "toSell": false,
+   "price": 94.56,
+   "photo": "133.jpg",
+   "tags": ["tag_c","tag_e","tag_a"]
+ },
+ {
+   "artName": "cover_134",
+   "toSell": true,
+   "price": 89.62,
+   "photo": "134.jpg",
+   "tags": ["tag_c","tag_r","tag_o"]
+ },
+ {
+   "artName": "religion_135",
+   "toSell": false,
+   "price": 65.82,
+   "photo": "135.jpg",
+   "tags": ["tag_r","tag_n","tag_i"]
+ },
+ {
+   "artName": "holiday_136",
+   "toSell": true,
+   "price": 94.12,
+   "photo": "136.jpg",
+   "tags": ["tag_h","tag_y","tag_l"]
+ },
+ {
+   "artName": "trick_137",
+   "toSell": false,
+   "price": 42.9,
+   "photo": "137.jpg",
+   "tags": ["tag_t","tag_k","tag_r"]
+ },
+ {
+   "artName": "engine_138",
+   "toSell": true,
+   "price": 25.33,
+   "photo": "138.jpg",
+   "tags": ["tag_e","tag_e","tag_g"]
+ },
+ {
+   "artName": "time_139",
+   "toSell": false,
+   "price": 64.93,
+   "photo": "139.jpg",
+   "tags": ["tag_t","tag_e","tag_i"]
+ },
+ {
+   "artName": "fly_140",
+   "toSell": true,
+   "price": 11.69,
+   "photo": "140.jpg",
+   "tags": ["tag_f","tag_y","tag_f"]
+ },
+ {
+   "artName": "story_141",
+   "toSell": false,
+   "price": 3.7,
+   "photo": "141.jpg",
+   "tags": ["tag_s","tag_y","tag_t"]
+ },
+ {
+   "artName": "existence_142",
+   "toSell": true,
+   "price": 99.28,
+   "photo": "142.jpg",
+   "tags": ["tag_e","tag_e","tag_s"]
+ },
+ {
+   "artName": "vessel_143",
+   "toSell": false,
+   "price": 78.32,
+   "photo": "143.jpg",
+   "tags": ["tag_v","tag_l","tag_s"]
+ },
+ {
+   "artName": "calculator_144",
+   "toSell": true,
+   "price": 10.94,
+   "photo": "144.jpg",
+   "tags": ["tag_c","tag_r","tag_u"]
+ },
+ {
+   "artName": "box_145",
+   "toSell": false,
+   "price": 94.43,
+   "photo": "145.jpg",
+   "tags": ["tag_b","tag_x","tag_b"]
+ },
+ {
+   "artName": "balance_146",
+   "toSell": true,
+   "price": 15.44,
+   "photo": "146.jpg",
+   "tags": ["tag_b","tag_e","tag_l"]
+ },
+ {
+   "artName": "kitty_147",
+   "toSell": false,
+   "price": 85.21,
+   "photo": "147.jpg",
+   "tags": ["tag_k","tag_y","tag_i"]
+ },
+ {
+   "artName": "kettle_148",
+   "toSell": true,
+   "price": 2.63,
+   "photo": "148.jpg",
+   "tags": ["tag_k","tag_e","tag_t"]
+ },
+ {
+   "artName": "death_149",
+   "toSell": false,
+   "price": 25.33,
+   "photo": "149.jpg",
+   "tags": ["tag_d","tag_h","tag_e"]
+ },
+ {
+   "artName": "ducks_150",
+   "toSell": true,
+   "price": 71.44,
+   "photo": "150.jpg",
+   "tags": ["tag_d","tag_s","tag_u"]
+ },
+ {
+   "artName": "screw_151",
+   "toSell": false,
+   "price": 33.48,
+   "photo": "151.jpg",
+   "tags": ["tag_s","tag_w","tag_c"]
+ },
+ {
+   "artName": "baby_152",
+   "toSell": true,
+   "price": 74.6,
+   "photo": "152.jpg",
+   "tags": ["tag_b","tag_y","tag_a"]
+ },
+ {
+   "artName": "chickens_153",
+   "toSell": false,
+   "price": 80.62,
+   "photo": "153.jpg",
+   "tags": ["tag_c","tag_s","tag_c"]
+ },
+ {
+   "artName": "muscle_154",
+   "toSell": true,
+   "price": 77.76,
+   "photo": "154.jpg",
+   "tags": ["tag_m","tag_e","tag_s"]
+ },
+ {
+   "artName": "impulse_155",
+   "toSell": false,
+   "price": 27.82,
+   "photo": "155.jpg",
+   "tags": ["tag_i","tag_e","tag_p"]
+ },
+ {
+   "artName": "smell_156",
+   "toSell": true,
+   "price": 25.29,
+   "photo": "156.jpg",
+   "tags": ["tag_s","tag_l","tag_m"]
+ },
+ {
+   "artName": "giraffe_157",
+   "toSell": false,
+   "price": 91.8,
+   "photo": "157.jpg",
+   "tags": ["tag_g","tag_e","tag_r"]
+ },
+ {
+   "artName": "back_158",
+   "toSell": true,
+   "price": 90.02,
+   "photo": "158.jpg",
+   "tags": ["tag_b","tag_k","tag_a"]
+ },
+ {
+   "artName": "face_159",
+   "toSell": false,
+   "price": 89.51,
+   "photo": "159.jpg",
+   "tags": ["tag_f","tag_e","tag_a"]
+ },
+ {
+   "artName": "mass_160",
+   "toSell": true,
+   "price": 59.94,
+   "photo": "160.jpg",
+   "tags": ["tag_m","tag_s","tag_a"]
+ },
+ {
+   "artName": "punishment_161",
+   "toSell": false,
+   "price": 96.29,
+   "photo": "161.jpg",
+   "tags": ["tag_p","tag_t","tag_s"]
+ },
+ {
+   "artName": "grandfather_162",
+   "toSell": true,
+   "price": 15.26,
+   "photo": "162.jpg",
+   "tags": ["tag_g","tag_r","tag_d"]
+ },
+ {
+   "artName": "error_163",
+   "toSell": false,
+   "price": 34.04,
+   "photo": "163.jpg",
+   "tags": ["tag_e","tag_r","tag_r"]
+ },
+ {
+   "artName": "stop_164",
+   "toSell": true,
+   "price": 11.46,
+   "photo": "164.jpg",
+   "tags": ["tag_s","tag_p","tag_t"]
+ },
+ {
+   "artName": "linen_165",
+   "toSell": false,
+   "price": 14.4,
+   "photo": "165.jpg",
+   "tags": ["tag_l","tag_n","tag_i"]
+ },
+ {
+   "artName": "cloth_166",
+   "toSell": true,
+   "price": 45.26,
+   "photo": "166.jpg",
+   "tags": ["tag_c","tag_h","tag_l"]
+ },
+ {
+   "artName": "match_167",
+   "toSell": false,
+   "price": 44.25,
+   "photo": "167.jpg",
+   "tags": ["tag_m","tag_h","tag_a"]
+ },
+ {
+   "artName": "mom_168",
+   "toSell": true,
+   "price": 52.41,
+   "photo": "168.jpg",
+   "tags": ["tag_m","tag_m","tag_m"]
+ },
+ {
+   "artName": "action_169",
+   "toSell": false,
+   "price": 27.88,
+   "photo": "169.jpg",
+   "tags": ["tag_a","tag_n","tag_t"]
+ },
+ {
+   "artName": "things_170",
+   "toSell": true,
+   "price": 83.41,
+   "photo": "170.jpg",
+   "tags": ["tag_t","tag_s","tag_i"]
+ },
+ {
+   "artName": "fire_171",
+   "toSell": false,
+   "price": 90.91,
+   "photo": "171.jpg",
+   "tags": ["tag_f","tag_e","tag_i"]
+ },
+ {
+   "artName": "rod_172",
+   "toSell": true,
+   "price": 78.45,
+   "photo": "172.jpg",
+   "tags": ["tag_r","tag_d","tag_r"]
+ },
+ {
+   "artName": "space_173",
+   "toSell": false,
+   "price": 50.32,
+   "photo": "173.jpg",
+   "tags": ["tag_s","tag_e","tag_p"]
+ },
+ {
+   "artName": "birth_174",
+   "toSell": true,
+   "price": 73.01,
+   "photo": "174.jpg",
+   "tags": ["tag_b","tag_h","tag_i"]
+ },
+ {
+   "artName": "bedroom_175",
+   "toSell": false,
+   "price": 55.59,
+   "photo": "175.jpg",
+   "tags": ["tag_b","tag_m","tag_d"]
+ },
+ {
+   "artName": "railway_176",
+   "toSell": true,
+   "price": 22.11,
+   "photo": "176.jpg",
+   "tags": ["tag_r","tag_y","tag_i"]
+ },
+ {
+   "artName": "knife_177",
+   "toSell": false,
+   "price": 7.63,
+   "photo": "177.jpg",
+   "tags": ["tag_k","tag_e","tag_n"]
+ },
+ {
+   "artName": "geese_178",
+   "toSell": true,
+   "price": 12.1,
+   "photo": "178.jpg",
+   "tags": ["tag_g","tag_e","tag_e"]
+ },
+ {
+   "artName": "drain_179",
+   "toSell": false,
+   "price": 13.05,
+   "photo": "179.jpg",
+   "tags": ["tag_d","tag_n","tag_r"]
+ },
+ {
+   "artName": "butter_180",
+   "toSell": true,
+   "price": 28.85,
+   "photo": "180.jpg",
+   "tags": ["tag_b","tag_r","tag_t"]
+ },
+ {
+   "artName": "books_181",
+   "toSell": false,
+   "price": 97.03,
+   "photo": "181.jpg",
+   "tags": ["tag_b","tag_s","tag_o"]
+ },
+ {
+   "artName": "detail_182",
+   "toSell": true,
+   "price": 97.67,
+   "photo": "182.jpg",
+   "tags": ["tag_d","tag_l","tag_t"]
+ },
+ {
+   "artName": "blow_183",
+   "toSell": false,
+   "price": 65.71,
+   "photo": "183.jpg",
+   "tags": ["tag_b","tag_w","tag_l"]
+ },
+ {
+   "artName": "trucks_184",
+   "toSell": true,
+   "price": 71,
+   "photo": "184.jpg",
+   "tags": ["tag_t","tag_s","tag_u"]
+ },
+ {
+   "artName": "ocean_185",
+   "toSell": false,
+   "price": 32.75,
+   "photo": "185.jpg",
+   "tags": ["tag_o","tag_n","tag_c"]
+ },
+ {
+   "artName": "government_186",
+   "toSell": true,
+   "price": 68.18,
+   "photo": "186.jpg",
+   "tags": ["tag_g","tag_t","tag_r"]
+ },
+ {
+   "artName": "monkey_187",
+   "toSell": false,
+   "price": 66.28,
+   "photo": "187.jpg",
+   "tags": ["tag_m","tag_y","tag_n"]
+ },
+ {
+   "artName": "playground_188",
+   "toSell": true,
+   "price": 32.79,
+   "photo": "188.jpg",
+   "tags": ["tag_p","tag_d","tag_g"]
+ },
+ {
+   "artName": "design_189",
+   "toSell": false,
+   "price": 26.64,
+   "photo": "189.jpg",
+   "tags": ["tag_d","tag_n","tag_s"]
+ },
+ {
+   "artName": "size_190",
+   "toSell": true,
+   "price": 31.59,
+   "photo": "190.jpg",
+   "tags": ["tag_s","tag_e","tag_i"]
+ },
+ {
+   "artName": "hook_191",
+   "toSell": false,
+   "price": 15.31,
+   "photo": "191.jpg",
+   "tags": ["tag_h","tag_k","tag_o"]
+ },
+ {
+   "artName": "spade_192",
+   "toSell": true,
+   "price": 59.24,
+   "photo": "192.jpg",
+   "tags": ["tag_s","tag_e","tag_p"]
+ },
+ {
+   "artName": "weather_193",
+   "toSell": false,
+   "price": 8.84,
+   "photo": "193.jpg",
+   "tags": ["tag_w","tag_r","tag_a"]
+ },
+ {
+   "artName": "ship_194",
+   "toSell": true,
+   "price": 43.47,
+   "photo": "194.jpg",
+   "tags": ["tag_s","tag_p","tag_h"]
+ },
+ {
+   "artName": "flight_195",
+   "toSell": false,
+   "price": 35.85,
+   "photo": "195.jpg",
+   "tags": ["tag_f","tag_t","tag_i"]
+ },
+ {
+   "artName": "grass_196",
+   "toSell": true,
+   "price": 54.32,
+   "photo": "196.jpg",
+   "tags": ["tag_g","tag_s","tag_r"]
+ },
+ {
+   "artName": "station_197",
+   "toSell": false,
+   "price": 16.69,
+   "photo": "197.jpg",
+   "tags": ["tag_s","tag_n","tag_a"]
+ },
+ {
+   "artName": "ball_198",
+   "toSell": true,
+   "price": 57.77,
+   "photo": "198.jpg",
+   "tags": ["tag_b","tag_l","tag_a"]
+ },
+ {
+   "artName": "horn_199",
+   "toSell": false,
+   "price": 33.66,
+   "photo": "199.jpg",
+   "tags": ["tag_h","tag_n","tag_o"]
+ },
+ {
+   "artName": "spiders_200",
+   "toSell": true,
+   "price": 42.14,
+   "photo": "200.jpg",
+   "tags": ["tag_s","tag_s","tag_i"]
+ },
+ {
+   "artName": "corn_201",
+   "toSell": false,
+   "price": 96.91,
+   "photo": "201.jpg",
+   "tags": ["tag_c","tag_n","tag_o"]
+ },
+ {
+   "artName": "lunch_202",
+   "toSell": true,
+   "price": 18.33,
+   "photo": "202.jpg",
+   "tags": ["tag_l","tag_h","tag_u"]
+ },
+ {
+   "artName": "watch_203",
+   "toSell": false,
+   "price": 80.75,
+   "photo": "203.jpg",
+   "tags": ["tag_w","tag_h","tag_a"]
+ },
+ {
+   "artName": "earth_204",
+   "toSell": true,
+   "price": 94.98,
+   "photo": "204.jpg",
+   "tags": ["tag_e","tag_h","tag_a"]
+ },
+ {
+   "artName": "steel_205",
+   "toSell": false,
+   "price": 34.68,
+   "photo": "205.jpg",
+   "tags": ["tag_s","tag_l","tag_t"]
+ },
+ {
+   "artName": "shop_206",
+   "toSell": true,
+   "price": 48.75,
+   "photo": "206.jpg",
+   "tags": ["tag_s","tag_p","tag_h"]
+ },
+ {
+   "artName": "play_207",
+   "toSell": false,
+   "price": 93.82,
+   "photo": "207.jpg",
+   "tags": ["tag_p","tag_y","tag_l"]
+ },
+ {
+   "artName": "angle_208",
+   "toSell": true,
+   "price": 82.99,
+   "photo": "208.jpg",
+   "tags": ["tag_a","tag_e","tag_n"]
+ },
+ {
+   "artName": "middle_209",
+   "toSell": false,
+   "price": 9.52,
+   "photo": "209.jpg",
+   "tags": ["tag_m","tag_e","tag_d"]
+ },
+ {
+   "artName": "meeting_210",
+   "toSell": true,
+   "price": 37.17,
+   "photo": "210.jpg",
+   "tags": ["tag_m","tag_g","tag_e"]
+ },
+ {
+   "artName": "lunchroom_211",
+   "toSell": false,
+   "price": 78.3,
+   "photo": "211.jpg",
+   "tags": ["tag_l","tag_m","tag_c"]
+ },
+ {
+   "artName": "wash_212",
+   "toSell": true,
+   "price": 73.4,
+   "photo": "212.jpg",
+   "tags": ["tag_w","tag_h","tag_a"]
+ },
+ {
+   "artName": "ear_213",
+   "toSell": false,
+   "price": 73.99,
+   "photo": "213.jpg",
+   "tags": ["tag_e","tag_r","tag_e"]
+ },
+ {
+   "artName": "insect_214",
+   "toSell": true,
+   "price": 31.71,
+   "photo": "214.jpg",
+   "tags": ["tag_i","tag_t","tag_s"]
+ },
+ {
+   "artName": "floor_215",
+   "toSell": false,
+   "price": 77.4,
+   "photo": "215.jpg",
+   "tags": ["tag_f","tag_r","tag_l"]
+ },
+ {
+   "artName": "reading_216",
+   "toSell": true,
+   "price": 20.52,
+   "photo": "216.jpg",
+   "tags": ["tag_r","tag_g","tag_a"]
+ },
+ {
+   "artName": "rock_217",
+   "toSell": false,
+   "price": 54.12,
+   "photo": "217.jpg",
+   "tags": ["tag_r","tag_k","tag_o"]
+ },
+ {
+   "artName": "babies_218",
+   "toSell": true,
+   "price": 65.1,
+   "photo": "218.jpg",
+   "tags": ["tag_b","tag_s","tag_b"]
+ },
+ {
+   "artName": "plough_219",
+   "toSell": false,
+   "price": 3.2,
+   "photo": "219.jpg",
+   "tags": ["tag_p","tag_h","tag_o"]
+ },
+ {
+   "artName": "need_220",
+   "toSell": true,
+   "price": 53.78,
+   "photo": "220.jpg",
+   "tags": ["tag_n","tag_d","tag_e"]
+ },
+ {
+   "artName": "dog_221",
+   "toSell": false,
+   "price": 44.68,
+   "photo": "221.jpg",
+   "tags": ["tag_d","tag_g","tag_d"]
+ },
+ {
+   "artName": "sail_222",
+   "toSell": true,
+   "price": 42.99,
+   "photo": "222.jpg",
+   "tags": ["tag_s","tag_l","tag_a"]
+ },
+ {
+   "artName": "sticks_223",
+   "toSell": false,
+   "price": 2.04,
+   "photo": "223.jpg",
+   "tags": ["tag_s","tag_s","tag_i"]
+ },
+ {
+   "artName": "crate_224",
+   "toSell": true,
+   "price": 85.42,
+   "photo": "224.jpg",
+   "tags": ["tag_c","tag_e","tag_r"]
+ },
+ {
+   "artName": "art_225",
+   "toSell": false,
+   "price": 60.53,
+   "photo": "225.jpg",
+   "tags": ["tag_a","tag_t","tag_a"]
+ },
+ {
+   "artName": "cough_226",
+   "toSell": true,
+   "price": 56.12,
+   "photo": "226.jpg",
+   "tags": ["tag_c","tag_h","tag_o"]
+ },
+ {
+   "artName": "tank_227",
+   "toSell": false,
+   "price": 94.6,
+   "photo": "227.jpg",
+   "tags": ["tag_t","tag_k","tag_a"]
+ },
+ {
+   "artName": "string_228",
+   "toSell": true,
+   "price": 61.28,
+   "photo": "228.jpg",
+   "tags": ["tag_s","tag_g","tag_r"]
+ },
+ {
+   "artName": "prose_229",
+   "toSell": false,
+   "price": 28.24,
+   "photo": "229.jpg",
+   "tags": ["tag_p","tag_e","tag_r"]
+ },
+ {
+   "artName": "sugar_230",
+   "toSell": true,
+   "price": 3.43,
+   "photo": "230.jpg",
+   "tags": ["tag_s","tag_r","tag_u"]
+ },
+ {
+   "artName": "nerve_231",
+   "toSell": false,
+   "price": 48.02,
+   "photo": "231.jpg",
+   "tags": ["tag_n","tag_e","tag_e"]
+ },
+ {
+   "artName": "spoon_232",
+   "toSell": true,
+   "price": 68.5,
+   "photo": "232.jpg",
+   "tags": ["tag_s","tag_n","tag_p"]
+ },
+ {
+   "artName": "order_233",
+   "toSell": false,
+   "price": 88.89,
+   "photo": "233.jpg",
+   "tags": ["tag_o","tag_r","tag_r"]
+ },
+ {
+   "artName": "measure_234",
+   "toSell": true,
+   "price": 73.28,
+   "photo": "234.jpg",
+   "tags": ["tag_m","tag_e","tag_a"]
+ },
+ {
+   "artName": "chalk_235",
+   "toSell": false,
+   "price": 11.42,
+   "photo": "235.jpg",
+   "tags": ["tag_c","tag_k","tag_h"]
+ },
+ {
+   "artName": "low_236",
+   "toSell": true,
+   "price": 26.27,
+   "photo": "236.jpg",
+   "tags": ["tag_l","tag_w","tag_l"]
+ },
+ {
+   "artName": "camera_237",
+   "toSell": false,
+   "price": 47.07,
+   "photo": "237.jpg",
+   "tags": ["tag_c","tag_a","tag_m"]
+ },
+ {
+   "artName": "cow_238",
+   "toSell": true,
+   "price": 61.78,
+   "photo": "238.jpg",
+   "tags": ["tag_c","tag_w","tag_c"]
+ },
+ {
+   "artName": "quince_239",
+   "toSell": false,
+   "price": 43.29,
+   "photo": "239.jpg",
+   "tags": ["tag_q","tag_e","tag_i"]
+ },
+ {
+   "artName": "pear_240",
+   "toSell": true,
+   "price": 91.78,
+   "photo": "240.jpg",
+   "tags": ["tag_p","tag_r","tag_e"]
+ },
+ {
+   "artName": "calendar_241",
+   "toSell": false,
+   "price": 87.57,
+   "photo": "241.jpg",
+   "tags": ["tag_c","tag_r","tag_e"]
+ }
+]}
